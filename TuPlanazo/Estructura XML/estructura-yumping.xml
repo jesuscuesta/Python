@@ -1,0 +1,24 @@
+    ---- ESTRUCTURA XML -----
+	
+    titulo: Título del actividad
+	
+    foto: Secuencia de imágenes de la actividad
+	
+    lugar: donde se desarrolla
+	
+    calle: la calle donde esta
+	
+    descripcion: en que consiste la actividad
+	
+    categoria: categoría general: deportes de aventura...
+	
+    subcategoria: pescas, canoas, caza
+	
+    subcategoria2: clasificación de la anterior
+	
+    subcategoria3: diferentes subclasificacionesd e la anerior
+	
+    subcategoria4: la actividad en sí
+	
+    enlaces: enlaces a parsear
+	

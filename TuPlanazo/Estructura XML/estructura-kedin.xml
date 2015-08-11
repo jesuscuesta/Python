@@ -1,0 +1,29 @@
+    ---- ESTRUCTURA XML -----
+	
+	titulo: titulo del evento
+	
+    subtitulo: Subtítulo explicativo
+	
+    foto: url relativa de la foto
+	
+    fecha: fecha del evento
+	
+    hora: hora en la que se realizará el evento
+	
+    horados: hora en la que se realizará el evento; en algunos eventos la hora esta puesta en este formato
+	
+    lugar: local donde se realizará
+	
+    descripcion: descripción del evento incluyendo formato de letra y enlaces
+	
+    precio: precio del evento, desde hasta
+	
+    enlaces: los enlaces que se parsearan
+	
+    categoria: conciertos, restaurantes...
+	
+    subcategoria: Pop, rock... (listado dentro de cada categoría
+	
+    ciudad: Todas las ciudades de españa
+	
+    ubicacion: Lugar donde se realizará

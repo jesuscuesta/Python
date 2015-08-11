@@ -1,0 +1,12 @@
+---- CON EL COMANDO iniciar.py, las carga todas seguidas
+
+- Obtenemos la máxima paginación
+scrapy crawl maxpaginacion
+
+- Comando para obtener el listado de urls en lista.txt
+scrapy crawl detalleSpider
+
+- Comando para obtener el documento xml con todos los datos
+scrapy crawl cogefotos -o items.xml -t xml
+
+El fichero strips, lo he dejado, para cuando queramos descargar las imágenes.

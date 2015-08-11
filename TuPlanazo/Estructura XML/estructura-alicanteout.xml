@@ -1,0 +1,24 @@
+    ---- ESTRUCTURA XML -----
+	
+	titulo: titulo del evento
+		
+    foto: url relativa de la foto
+	
+    fecha: fecha del evento
+	
+    hora: hora en la que se realizará el evento
+	
+    lugar: local donde se realizará
+	
+    descripcion: descripción del evento incluyendo formato de letra y enlaces
+	
+    precio: precio del evento, desde hasta
+	
+    enlaces: los enlaces que se parsearan
+	
+    categoria: música, teatro, arte, niños...
+	
+
+	
+
+	

@@ -1,0 +1,11 @@
+    ---- ESTRUCTURA XML -----
+	
+	titulo: titulo del evento
+	
+    foto: url relativa de la foto
+	
+    fecha: fecha del evento
+	
+    hora: hora en la que se realizará el evento
+	
+    descripcion: descripción del evento incluyendo formato de letra y enlaces

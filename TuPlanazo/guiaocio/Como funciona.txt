@@ -1,0 +1,8 @@
+- Obtenemos el máximo de la paginación
+scrapy crawl detallespider
+
+- Obtenemos el listado de todos los eventos con su paginacion
+scrapy crawl ultimospider
+
+- Obtenemos todos los valores de los detalles
+scrapy crawl cogefotos -o guiaocio.xml -t xml

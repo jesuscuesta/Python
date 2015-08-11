@@ -1,0 +1,8 @@
+- Obtenemos el listado de todas las url de categorias
+scrapy crawl detallespider
+
+- Obtenemos el listado de todos los eventos con su paginacion
+scrapy crawl paginspider
+
+- Obtenemos todos los valores de los detalles
+scrapy crawl cogefotos -o item.xml -t xml
